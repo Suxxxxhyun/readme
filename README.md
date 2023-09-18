@@ -54,29 +54,29 @@
                 <li>회원탈퇴</li>
             </ol>
         </td>
-      <td>
-          
-      </td>
-      <td>
-      
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-          <ol>
+        <td>
+        
+        </td>
+        <td>
+        
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+            <ol>
                 <li>브리더 인증받기</li>
                 <li>관리자 승인</li>
                 <li>보유견종관리</li>
-          </ol>
-      <td>
-      <td>
+            </ol>
+        </td>
+        <td>
             <ol>
                 <li>피그마를 통한 디자인</li>
                 <li>시연영상</li>
             </ol>
         </td>
-      </td>
     </tr>
   </tbody>
 </table>
