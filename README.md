@@ -33,6 +33,14 @@
       <td align="center"><a href=""><img src="./team/이지수.png" width="150" height="150" alt=""/><br /><sub><b>BE 팀원 : 이지수</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
     </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
