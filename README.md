@@ -31,7 +31,7 @@
       <td align="center"><a href="https://github.com/ChanghyeonO"><img src="./team/오창현.png" width="150" height="150" alt=""/><br /><sub><b>FE 팀원 : 오창현</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/kjungit"><img src="./team/권범준.jpg" width="150" height="150" alt=""/><br /><sub><b>FE 팀원 : 권범준</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="./team/이지수.png" width="150" height="150" alt=""/><br /><sub><b>BE 팀원 : 이지수</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./team/이수언.png" width="150" height="150" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
     </tr>
     <tr>
         <td>
