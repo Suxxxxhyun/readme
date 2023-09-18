@@ -56,30 +56,23 @@
         </td>
         <td>
             <ol>
-                <li>
-                    
-                </li>
+                <li>보유견종관리</li>
+                <li>분양후기</li>
             </ol>
         </td>
         <td>
             <ol>
-                <li>
-                    
-                </li>
+                <li>땡땡</li>
             </ol>
         </td>
         <td>
             <ol>
-                <li>
-                    
-                </li>
+                <li>땡땡</li>
             </ol>
         </td>
         <td>
             <ol>
-                <li>
-                    
-                </li>
+                <li>땡땡</li>
             </ol>
         </td>
         <td>
