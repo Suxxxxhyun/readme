@@ -34,10 +34,25 @@
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
     </tr>
     <tr>
-      <td> 1. 첫번째
-           2. 두번째
-           3. 세번째 
-      </td>
+        <td>
+            <ol>
+                <li>데이터베이스 설계</li>
+                <li>docker, CICD를 통한 ec2배포</li>
+                <li>브리더 모아보기 거리순 정렬</li>
+                <li>JWT로그인</li>
+                <li>카카오Oauth</li>
+                <li>강아지모아보기 다중검색</li>
+                <li>견종검색</li>
+                <li>기초지식테스트</li>
+                <li>제3자가 보는 브리더, 분양희망자 프로필조회</li>
+                <li>분양후기관리</li>
+                <li>분양신청내역</li>
+                <li>회원정보수정</li>
+                <li>프로필관리</li>
+                <li>회원가입</li>
+                <li>회원탈퇴</li>
+            </ol>
+        </td>
       <td></td>
       <td></td>
       <td></td>
