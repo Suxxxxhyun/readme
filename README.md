@@ -1,7 +1,7 @@
 # readme
 ## ⭐ 프로젝트 소개
-
 ---
+<img src="./petree-img/home.png" >
 
 - **Who’s Breeder?**
     
