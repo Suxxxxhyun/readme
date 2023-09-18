@@ -30,4 +30,3 @@
 
 ## 🏷️폴더 구조
 ---
-https://www.notion.so/7a10327df53f49ddae3204c63a8ddcca?pvs=4#9e09892e77fe43aea5904285da0325c0
