@@ -18,7 +18,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="![대체 텍스트](./team/박수현.jpg)" width="600" height="600"/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./team/박수현.jpg" width="600" height="600"/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
