@@ -18,13 +18,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="./team/박수현.jpg" width="250" height="250"/><br /><sub><b>BE 팀장 : 박수현</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 부팀장 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./team/박수현.jpg" width="150" height="150"/><br /><sub><b>BE 팀장 : 박수현</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./team/권규형.jpg" width="100px;" alt=""/><br /><sub><b>FE 부팀장 : 권규형</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./team/오창현.png" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 오창현</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./team/권범준.png" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 권범준</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 이지수</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
