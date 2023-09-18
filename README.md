@@ -26,12 +26,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Suxxxxhyun"><img src="./team/박수현.jpg" width="150" height="150"/><br /><sub><b>BE 팀장 : 박수현</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/granen32"><img src="./team/권규형.jpg" width="150" height="150" alt=""/><br /><sub><b>FE 부팀장 : 권규형</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/ChanghyeonO"><img src="./team/오창현.png" width="150" height="150" alt=""/><br /><sub><b>FE 팀원 : 오창현</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kjungit"><img src="./team/권범준.jpg" width="150" height="150" alt=""/><br /><sub><b>FE 팀원 : 권범준</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="./team/이지수.png" width="150" height="150" alt=""/><br /><sub><b>BE 팀원 : 이지수</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="./team/이수언.png" width="150" height="150" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Suxxxxhyun"><img src="./petree-img/박수현.jpg" width="150" height="150"/><br /><sub><b>BE 팀장 : 박수현</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/granen32"><img src="./petree-img/권규형.jpg" width="150" height="150" alt=""/><br /><sub><b>FE 부팀장 : 권규형</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ChanghyeonO"><img src="./petree-img/오창현.png" width="150" height="150" alt=""/><br /><sub><b>FE 팀원 : 오창현</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kjungit"><img src="./petree-img/권범준.jpg" width="150" height="150" alt=""/><br /><sub><b>FE 팀원 : 권범준</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./petree-img/이지수.png" width="150" height="150" alt=""/><br /><sub><b>BE 팀원 : 이지수</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="./petree-img/이수언.png" width="150" height="150" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
     </tr>
     <tr>
         <td>
@@ -89,7 +89,7 @@
 
 ## 💠 아키텍쳐 
 ---
-<img src="./architecture/펫트리 아키텍쳐.jpg" >
+<img src="./petree-img/펫트리 아키텍쳐.jpg" >
 
 ## 🏷️ Frontend 폴더 구조
 --- 
