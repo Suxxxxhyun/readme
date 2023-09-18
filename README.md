@@ -92,7 +92,11 @@
 <img src="./architecture/펫트리 아키텍쳐.jpg" >
 
 ## 🏷️ Frontend 폴더 구조
----
+--- 
+<pre>
+    <code> 
+    </code>
+</pre>
 
 ## 🏷️ Backend 폴더 구조
 ---
