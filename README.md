@@ -34,7 +34,10 @@
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>디자이너 : 이수언</b></sub></a><br /></td>
     </tr>
     <tr>
-      <td> 작업 내역 </td>
+      <td> 1. 첫번째
+           2. 두번째
+           3. 세번째 
+      </td>
       <td></td>
       <td></td>
       <td></td>
