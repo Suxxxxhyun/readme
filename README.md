@@ -89,7 +89,8 @@
 
 ## 💠 아키텍쳐 
 <img src="./architecture/펫트리 아키텍쳐.jpg" >
-## 🏷️폴더 구조
+
+## 🏷️ Backend 폴더 구조
 ---
 <pre>
     <code> 
